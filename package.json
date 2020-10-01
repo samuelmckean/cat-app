@@ -1,0 +1,26 @@
+{
+  "name": "cat-app",
+  "version": "1.0.0",
+  "description": "A web application for searching and viewing images of cats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelmckean/cat-app.git"
+  },
+  "keywords": [
+    "cat"
+  ],
+  "author": "Samuel McKean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelmckean/cat-app/issues"
+  },
+  "homepage": "https://github.com/samuelmckean/cat-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
